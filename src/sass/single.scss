@@ -1,0 +1,47 @@
+@import 'var';
+
+.single__article{
+    padding: 0;
+    .single__banner{
+        height: 100px;
+        width: 100%;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        .title__con{
+            position: relative;
+            height: 100%;
+            h4{
+                position: absolute;
+                bottom: 0;
+                left: 0;
+                color: $white;
+                text-transform: uppercase;
+                font-size: 22px;
+            }
+        }
+    }
+}
+
+.article__con{
+    .article__title{
+        h4{
+            font-size: 20px;
+            color: $font_color;
+        }
+    }
+    .article__details{
+        p{
+            font-size: 13px;
+            font-weight: 600;
+            
+            span{
+                font-weight: 400;
+            }
+        }
+        p:nth-child(1){
+            font-weight: 400;
+        }
+        
+    }
+}

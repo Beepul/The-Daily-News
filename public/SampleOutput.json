@@ -1,0 +1,266 @@
+{
+	"status": "ok",
+	"totalResults": 67,
+	"articles": [
+		{
+			"source": {
+				"id": null,
+				"name": "Yahoo Entertainment"
+			},
+			"author": "Denitsa Tsekova",
+			"title": "Stocks Edge Up in Holding Pattern Before Inflation: Markets Wrap - Yahoo Finance",
+			"description": "(Bloomberg) -- Global stock trading was muted as investors awaited US inflation data that may shed light on the Federal Reserve’s next policy move. Most Read...",
+			"url": "https://finance.yahoo.com/news/asian-stocks-poised-modest-gains-220154009.html",
+			"urlToImage": "https://media.zenfs.com/en/bloomberg_markets_842/3e655411904c586d67f0b93bf89ac23f",
+			"publishedAt": "2023-04-12T09:45:48Z",
+			"content": "(Bloomberg) -- Global stock trading was muted as investors awaited US inflation data that may shed light on the Federal Reserves next policy move.\r\nMost Read from Bloomberg\r\nContracts on the S&amp;P … [+3669 chars]"
+		},
+		{
+			"source": {
+				"id": "cnn",
+				"name": "CNN"
+			},
+			"author": "Michelle Toh, Juliana Liu",
+			"title": "Elon Musk says he's cut about 80% of Twitter's staff - CNN",
+			"description": "Elon Musk has laid off more than 6,000 people at Twitter since taking over the company, he told the BBC in a rare interview late Tuesday.",
+			"url": "https://www.cnn.com/2023/04/12/tech/elon-musk-bbc-interview-twitter-intl-hnk/index.html",
+			"urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230330144336-elon-musk-file.jpg?c=16x9&q=w_800,c_fill",
+			"publishedAt": "2023-04-12T09:45:00Z",
+			"content": "Elon Musk has laid off more than 6,000 people at Twitter since taking over the company, he told the BBC in a rare interview late Tuesday.\r\nMusk was quoted as saying in the interview that the social m… [+2044 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "CNBC"
+			},
+			"author": "Arjun Kharpal",
+			"title": "Apple to open first stores in India next week underscoring CEO Tim Cook's bullish view on the country - CNBC",
+			"description": "Apple CEO Tim Cook will reportedly travel to India to open the iPhone maker's stores, underscoring his bullishness towards the world's fifth-largest economy.",
+			"url": "https://www.cnbc.com/2023/04/12/apple-to-open-first-stores-in-india-next-week-tim-cook-may-visit.html",
+			"urlToImage": "https://image.cnbcfm.com/api/v1/image/107223762-1681288810619-gettyimages-1250884533-AVaishnav_Apples_first_company_owned_store_to_be_launched_in_Mumbai_4.jpeg?v=1681292041&w=1920&h=1080",
+			"publishedAt": "2023-04-12T09:34:01Z",
+			"content": "Apple is set to open its first physical stores in India next week, highlighting the country's importance to the U.S. tech firm's future in iPhone sales and manufacturing,\r\nThe Cupertino giant will op… [+1999 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "CoinDesk"
+			},
+			"author": "Omkar Godbole",
+			"title": "China's 'Credit Impulse' Is Picking Up. Here's Why It Matters to Bitcoin - CoinDesk",
+			"description": "Credit impulse, an indicator introduced by former Deutsche Bank economist Michael Biggs, measures the change in new credit issued as a percentage of the gross domestic product.",
+			"url": "https://www.coindesk.com/markets/2023/04/12/chinas-credit-impulse-is-picking-up-heres-why-it-matters-to-bitcoin/",
+			"urlToImage": "https://www.coindesk.com/resizer/MJcpQT3CWP1vtQnRtqFhRx60Zc8=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/R5RVSNBT2BFF5FYVB3E2QCG2PQ.jpg",
+			"publishedAt": "2023-04-12T09:08:00Z",
+			"content": "While the U.S. Federal Reserve (Fed) maintains its anti-liquidity stance, China no longer seems hesitant to expand credit in a positive sign for risk assets, including cryptocurrencies.\r\nPer data sou… [+2366 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "Fox Business"
+			},
+			"author": "Landon Mion",
+			"title": "US spending $5 billion to increase new COVID vaccines' speed of development - Fox Business",
+			"description": "The U.S. government is spending more than $5 billion to increase the speed of development of new COVID-19 vaccines and treatments, according to officials.",
+			"url": "https://www.foxbusiness.com/healthcare/us-spending-5-billion-increase-new-covid-vaccines-speed-development",
+			"urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2022/06/0/0/Pfizer-2.jpg?ve=1&tl=1",
+			"publishedAt": "2023-04-12T08:47:59Z",
+			"content": "The U.S. government is spending more than $5 billion to ramp up the development of new COVID-19 vaccines and treatments. \r\nThe news was confirmed Monday by a Department of Health and Human Services (… [+2800 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "Fox Business"
+			},
+			"author": "Ken Martin",
+			"title": "Warren Buffett eyes Japanese companies, may boost stakes - Fox Business",
+			"description": "Billionaire investor Warren Buffett's Berkshire Hathaway is increasing its stakes in five Japanese trading houses. The total amount is now up to 7.4%.",
+			"url": "https://www.foxbusiness.com/markets/warren-buffett-eyes-japanese-companies-may-boost-stakes",
+			"urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/02/0/0/Warren-Buffet-AP-1.jpg?ve=1&tl=1",
+			"publishedAt": "2023-04-12T08:32:40Z",
+			"content": "Warren Buffett's Berkshire Hathaway has boosted its stakes in Japan's five largest trading houses to 7.4%.\r\nThe billionaire investor said he may invest more in the country.\r\nThose companies are Itoch… [+1901 chars]"
+		},
+		{
+			"source": {
+				"id": "techcrunch",
+				"name": "TechCrunch"
+			},
+			"author": "Ivan Mehta",
+			"title": "Elon Musk says Twitter will finally remove legacy checkmarks on 4/20 - TechCrunch",
+			"description": "Elon Musk said that Twitter will finally move to remove legacy checkmarks on April 20 after missing April 1 deadline.",
+			"url": "https://techcrunch.com/2023/04/11/elon-musk-says-twitter-will-finally-remove-legacy-checkmarks-on-4-20/",
+			"urlToImage": "https://techcrunch.com/wp-content/uploads/2022/11/Twitter-vefication-bryce.jpg?resize=1200,645",
+			"publishedAt": "2023-04-12T07:07:30Z",
+			"content": "Elon Musk said that Twitter will finally move to remove the legacy blue checkmarks on April 20 or 4/20 because he can’t let go of that joke. This is the “final date,” he said in a tweet. If the move … [+2121 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "Spaceflight Now"
+			},
+			"author": null,
+			"title": "SpaceX readying Starship rocket for around-the-world test flight as soon as next week – Spaceflight Now - Spaceflight Now",
+			"description": null,
+			"url": "https://spaceflightnow.com/2023/04/11/spacex-readying-starship-rocket-for-around-the-world-test-flight-as-soon-as-next-week/",
+			"urlToImage": null,
+			"publishedAt": "2023-04-12T06:36:15Z",
+			"content": "SpaceX’s Super Heavy booster and Starship rocket stand fully stacked at the company’s Starbase launch facility in South Texas. Credit: SpaceX\r\nSpaceX said Tuesday it won’t perform a final countdown d… [+12084 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "CoinDesk"
+			},
+			"author": "Shaurya Malwa",
+			"title": "Bitcoin Slips Under $30K, Ether Staking Tokens Take a Beating Ahead of Shapella Upgrade - CoinDesk",
+			"description": "Traders are likely taking profits ahead of Wednesday’s CPI report and Ethereum’s Shapella upgrade.",
+			"url": "https://www.coindesk.com/markets/2023/04/12/bitcoin-slips-under-30k-ether-staking-tokens-take-a-beating-ahead-of-shapella-upgrade/",
+			"urlToImage": "https://www.coindesk.com/resizer/uuLl7JYiMlUuvv58MeYmObGUQl0=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/N2LVQGYVLVFTFN2R2PLA6QP6N4.jpg",
+			"publishedAt": "2023-04-12T06:21:00Z",
+			"content": "Bitcoin (BTC) slipped under the crucial $30,000 level in early European hours on Wednesday, with overall market capitalization falling 1.2% in the past 24 hours.\r\nEther (ETH) traded just over $1,860,… [+1892 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "YouTube"
+			},
+			"author": null,
+			"title": "Elon Musk merges Twitter with X Corp | English News | WION - WION",
+			"description": "Elon Musk's Twitter is merged with 'X everything app. Twitter secretly announced its demise in a court filing in the US. \"Twitter Inc. no longer exists after...",
+			"url": "https://www.youtube.com/watch?v=dcJfRepWoKw",
+			"urlToImage": "https://i.ytimg.com/vi/dcJfRepWoKw/maxresdefault.jpg",
+			"publishedAt": "2023-04-12T04:51:36Z",
+			"content": null
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "KABC-TV"
+			},
+			"author": null,
+			"title": "San Francisco Whole Foods store closes after 1 year, with company citing worker safety concerns - KABC-TV",
+			"description": "A Whole Foods in San Francisco that opened just last year is temporarily closing. The company said concerns about worker safety forced it to shut down.",
+			"url": "https://abc7.com/whole-foods-san-francisco-store-closing-worker-safety-concerns/13115702/",
+			"urlToImage": "https://cdn.abcotvs.com/dip/images/13116182_041123-kabc-11pm-SF-whole-foods-vid.jpg?w=1600",
+			"publishedAt": "2023-04-12T04:18:52Z",
+			"content": "SAN FRANCISCO -- An enormous Whole Foods in downtown San Francisco that opened just last year is temporarily closing. The company said concerns about worker safety forced it to shut down.\r\nIncidents … [+3541 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "Teslarati"
+			},
+			"author": "William Johnson",
+			"title": "Kia jumps into electric van segment, announces new vehicle and factory - TESLARATI",
+			"description": "Kia has announced an all-new production facility for an upcoming commercial vehicle lineup called \"purpose-built vehicles,\" or PBVs.",
+			"url": "https://www.teslarati.com/kia-electric-van-segment-announcement/",
+			"urlToImage": "https://www.teslarati.com/wp-content/uploads/2023/04/Kia-PBVs.jpg",
+			"publishedAt": "2023-04-12T03:55:36Z",
+			"content": "Kia has announced an all-new production facility for an upcoming commercial vehicle lineup called “purpose-built vehicles,” or PBVs.\r\nDespite the incredible opportunity for cost reduction, commercial… [+1906 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "YouTube"
+			},
+			"author": null,
+			"title": "Swiss Lower House Votes Against UBS-Credit Suisse Deal - Bloomberg Television",
+			"description": "Swiss parliament’s lower house on Tuesday voted against approving $120 billion in government guarantees for UBS Group AG’s takeover of Credit Suisse Group AG...",
+			"url": "https://www.youtube.com/watch?v=YIL0UkqXGRg",
+			"urlToImage": "https://i.ytimg.com/vi/YIL0UkqXGRg/hqdefault.jpg",
+			"publishedAt": "2023-04-12T03:42:40Z",
+			"content": null
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "Whec.com"
+			},
+			"author": "Colleen Farrell",
+			"title": "Whole Foods in Brighton opens Wednesday morning after long legal battle - News10NBC",
+			"description": "BRIGHTON, N.Y. — After years of legal battles, the Whole Foods Market is opening on Wednesday morning on Monroe Avenue in Brighton.The legal fight between Whole Foods developers and Brighton Grassroots seems to be over, at least for now. The store is set to o…",
+			"url": "https://www.whec.com/top-news/judge-denies-attempt-to-stop-rochester-area-whole-foods-from-opening-wednesday/",
+			"urlToImage": "https://www.whec.com/wp-content/uploads/akta/D0E05326D192ADCCE79FC3DE6D213452.jpg",
+			"publishedAt": "2023-04-12T03:33:45Z",
+			"content": "BRIGHTON, N.Y. After years of legal battles, the Whole Foods Market is opening on Wednesday morning on Monroe Avenue in Brighton.\r\nThe legal fight between Whole Foods developers and Brighton Grassroo… [+3122 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "Deadline"
+			},
+			"author": "Jill Goldsmith",
+			"title": "National CineMedia Files For Chapter 11 - Deadline",
+			"description": "The nation’s biggest movie theater advertising network National CineMedia said tonight it’s filed a voluntary Chapter 11 petition in U.S. District Court in the Southern District of Texas – where on…",
+			"url": "https://deadline.com/2023/04/national-cinemedia-files-for-chapter-11-following-regal-cineworld-box-amid-office-uptick-1235322534/",
+			"urlToImage": "https://deadline.com/wp-content/uploads/2019/08/national-cinemedia-noovie.png?w=1024",
+			"publishedAt": "2023-04-12T03:27:00Z",
+			"content": "The nation’s biggest movie theater advertising network National CineMedia said tonight it’s filed a voluntary Chapter 11 petition in U.S. District Court in the Southern District of Texas – where one … [+2849 chars]"
+		},
+		{
+			"source": {
+				"id": "reuters",
+				"name": "Reuters"
+			},
+			"author": null,
+			"title": "US banks to set aside reserves after shoring up First Republic, sources say - Reuters",
+			"description": "Banks that contributed the bulk of $30 billion in deposits to First Republic Bank <a href=\"https://www.reuters.com/companies/FRC.N\" target=\"_blank\">(FRC.N)</a> plan to set aside about $100 million each in first-quarter earnings in case of potential losses, tw…",
+			"url": "https://www.reuters.com/business/finance/us-banks-that-shored-up-first-republic-pushed-boost-reserves-bloomberg-news-2023-04-12/",
+			"urlToImage": "https://www.reuters.com/resizer/DH14FV9aTvZEQzBJ91NEVngYaVs=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/G2P66PYY35NDLI5KYRJOBX3OOM.jpg",
+			"publishedAt": "2023-04-12T03:20:00Z",
+			"content": "April 11 (Reuters) - Banks that contributed the bulk of $30 billion in deposits to First Republic Bank (FRC.N) plan to set aside about $100 million each in first-quarter earnings in case of potential… [+1031 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "CoinDesk"
+			},
+			"author": "Sam Reynolds",
+			"title": "Tron's TRX Drops 6% as Binance.US Delists the Token - CoinDesk",
+			"description": "Binance.US says a variety of factors can lead to de-listing, including regulatory standing in the U.S. and unethical behavior.",
+			"url": "https://www.coindesk.com/markets/2023/04/12/trons-trx-down-6-as-binanceus-delists-token/",
+			"urlToImage": "https://www.coindesk.com/resizer/YeiRzBnqOLpioJy3DGrIEplZcWA=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/M6WOPKLYWRFILESRACKFWZN5TA.jpg",
+			"publishedAt": "2023-04-12T03:08:00Z",
+			"content": "Please note that ourprivacy policy,terms of use,cookies, anddo not sell my personal informationhas been updated.\r\nThe leader in news and information on cryptocurrency, digital assets and the future o… [+538 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "POLITICO.eu"
+			},
+			"author": "Matthew Karnitschnig",
+			"title": "Iran in secret talks with China, Russia to acquire sanctioned missile fuel - POLITICO Europe",
+			"description": "Diplomats fear Tehran could help replenish Moscow’s depleted missile stocks",
+			"url": "https://www.politico.eu/article/vladimir-putin-ukraine-war-xi-jinping-china-russia-in-secret-talks-to-supply-iran-missile-propellant/",
+			"urlToImage": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2023/04/11/GettyImages-1240318871-scaled.jpg",
+			"publishedAt": "2023-04-12T02:43:32Z",
+			"content": "China and Russia are in advanced secret talks with Iran to replenish the Islamic Republics supply of a key chemical compound used to propel ballistic missiles, diplomats familiar with the matter say,… [+6571 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "YouTube"
+			},
+			"author": null,
+			"title": "China Mandates Security Reviews for ChatGPT-Like Services - Bloomberg Television",
+			"description": "Chinese technology companies from Baidu Inc., Alibaba Group Holding Ltd. to SenseTime Group Inc. are unveiling generative AI services for the world's largest...",
+			"url": "https://www.youtube.com/watch?v=nQeSxHQcWWA",
+			"urlToImage": "https://i.ytimg.com/vi/nQeSxHQcWWA/maxresdefault.jpg",
+			"publishedAt": "2023-04-12T00:47:35Z",
+			"content": null
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "CNBC"
+			},
+			"author": "Stephanie Landsman",
+			"title": "Wall Street is wrong: Former Pimco chief economist Paul McCulley predicts rate hikes will end next month - CNBC",
+			"description": "Pimco's former chief economist Paul McCulley makes a contrarian call on Fed policy.",
+			"url": "https://www.cnbc.com/2023/04/11/fed-rate-hikes-will-end-next-month-former-pimco-economist-mcculley.html",
+			"urlToImage": "https://image.cnbcfm.com/api/v1/image/102915353-20150811-2-1522-10.jpg?v=1681259913&w=1920&h=1080",
+			"publishedAt": "2023-04-12T00:38:00Z",
+			"content": "Wall Street is wrong about the Federal Reserve's interest rate path, according to former Pimco chief economist Paul McCulley.\r\nBarring a surprise jump in inflation, he believes mounting economic pres… [+1790 chars]"
+		}
+	]
+}

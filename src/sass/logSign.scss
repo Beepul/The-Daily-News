@@ -1,0 +1,75 @@
+@import 'var';
+.modal-dialog{
+    justify-content: center;
+}
+.modal-content{
+    border-radius: 0 !important;
+    width: 450px;
+}
+.modal-header{
+    border: none;
+    padding: 30px 30px 0 30px;
+}
+.modal-title{
+    text-transform: uppercase;
+}
+.modal-body{
+    padding: 20px 30px;
+}
+.form__ls{
+    margin-bottom: 20px;
+}
+label{
+    font-size: 13px;
+    color: $font_color;
+}
+input{
+    border-radius: 2px !important;
+}
+.form-check{
+    display: flex;
+    gap: 8px;
+    align-items: center;
+}
+.form-check-input{
+    height: 0.8rem;
+    width: 0.8rem;
+}
+.submit{
+    border-radius: 2px;
+    border: none;
+    background-color: $red;
+    text-transform: uppercase;
+    padding-left: 20px;
+    padding-right: 20px;
+    &:hover{
+        background-color: $hover_red;
+    }
+}
+.modal-footer{
+    padding-left: 0;
+    padding-right: 0;
+    display: block;
+    .upper_modal{
+        padding-bottom: 6px;
+       ul{
+        padding: 0;
+        a{
+            font-size: 13px;
+            color: $font_color;
+            cursor: pointer;
+            &:hover{
+                color: $red;
+            }
+        }
+       }
+    }
+    button{
+        width: 100%;
+        border-radius: 2px;
+        &:hover{
+            background-color: $red;
+            border: 1px solid $red;
+        }
+    }
+}
