@@ -1,3 +1,5 @@
+#live url: https://thedailynewz.netlify.app/?fbclid=IwAR1qQjdwqAVYQNyHyoJkMdrCRQsmbpuATCAWfz1U-Ov-IBqlCjvQdEMSE2o
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
